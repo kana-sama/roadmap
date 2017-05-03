@@ -1,13 +1,13 @@
 # roadmap
 
 ## programming
-- [ ] SICP
+- [ ] Структура и Интерпретация Компьютерных Программ / Structure and Interpretation of Computer Programs (Харольд Абельсон, Джеральд Джей Сассман)
   [[ebook]](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
   [[my solutions]](https://github.com/kana-sama/sicp)
   [[paper]](https://www.ozon.ru/context/detail/id/5322055/)
 - [ ] HtDP
   [[ebook]](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
-- [ ] Compilers: Principles, Techniques, & Tools
+- [ ] Компиляторы. Принципы, технологии и инструментарий / Compilers: Principles, Techniques, & Tools
   [[paper]](https://www.ozon.ru/context/detail/id/3829076/)
 - [ ] Программирование. Теоремы и задачи (Александр Шень)
   [[paper]](https://www.ozon.ru/context/detail/id/140340900/)
@@ -17,8 +17,23 @@
   [[paper]](https://www.ozon.ru/context/detail/id/2480925/)
 - [ ] Алгоритмы. Построение и анализ / Introduction to Algorithms (Томас Х. Кормен, Чарльз И. Лейзерсон, Рональд Л. Ривест, Клиффорд Штайн, Игорь Красиков)
   [[paper]](https://www.ozon.ru/context/detail/id/33769775/)
-
-
+- [ ] Computer Organization and Design: The Hardware / Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design) (David A. Patterson, John L. Hennessy)
+  [[paper]](https://www.ozon.ru/context/detail/id/22680307/)
+- [ ] The Algorithm Design Manual (Стивен С. Скиена)
+  [[paper]](https://www.ozon.ru/context/detail/id/1830000/)
+- [ ] Компьютерные сети. Нисходящий подход / Computer Networking: A Top-Down Approach (Джеймс Ф. Куроуз, Кит В. Росс)
+  [[paper]](https://www.ozon.ru/context/detail/id/135453228/)
+- [ ] Readings in Database Systems (Joseph M Hellerstein)
+  [[paper]](https://www.ozon.ru/context/detail/id/5912157/)
+- [ ] Distributed Systems: Principles and Paradigms
+  [[paper]](https://www.ozon.ru/context/detail/id/3669235/)
+- [ ] Анализ алгоритмов. Активный обучающий подход / Analysis of Algorithms: An Active Learning Approach (Джефри Макконнелл)
+  [[paper]](https://www.ozon.ru/context/detail/id/4523340/)
+- [ ] Чисто функциональные структуры данных / Purely Functional Data Structures (Крис Окасаки)
+  [[paper]](https://www.ozon.ru/context/detail/id/135933824/)
+- [ ] Чистый код: создание, анализ и рефакторинг (Роберт К. Мартин)
+  [[paper]](https://www.ozon.ru/context/detail/id/21916535/)
+  
 ## math
 - [ ] Введение в алгебру. В 3 частях. Часть 1. Основы алгебры (Алексей Кострикин)
   [[paper]](https://www.ozon.ru/context/detail/id/21839075/)
@@ -50,3 +65,15 @@
   [[paper]](https://www.ozon.ru/context/detail/id/3248945/)
 - [ ] Сборник задач по теории вероятностей (Андрей Зубков, Борис Севастьянов, Владимир Чистяков)
   [[paper]](https://www.ozon.ru/context/detail/id/4743257/)
+- [ ] Курс математического анализа. Учебник. В 3 томах. Том 1 (Лев Кудрявцев)
+  [[paper]](https://www.ozon.ru/context/detail/id/32151877/)
+- [ ] Курс математического анализа. В 2 книгах. Том 2. Книга 1. Учебник (Лев Кудрявцев)
+  [[paper]](https://www.ozon.ru/context/detail/id/135851706/)
+- [ ] Курс математического анализа. Том 2. В 2 книгах. Книга 2 (Лев Кудрявцев)
+  [[paper]](https://www.ozon.ru/context/detail/id/135851707/)
+- [ ] Курс математического анализа. В 3 томах. Том 3. Учебник (Лев Кудрявцев)
+  [[paper]](https://www.ozon.ru/context/detail/id/139038567/)
+- [ ] Дискретная математика для программистов / Discrete Mathematics for Compuing (Род Хаггарти)
+  [[paper]](https://www.ozon.ru/context/detail/id/7825217/)
+- [ ] Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology (Джон Фрэнк Адамс)
+  [[paper]](https://www.ozon.ru/context/detail/id/19134759/)
