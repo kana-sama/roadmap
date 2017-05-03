@@ -5,7 +5,7 @@
   [[ebook]](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
   [[my solutions]](https://github.com/kana-sama/sicp)
   [[paper]](https://www.ozon.ru/context/detail/id/5322055/)
-- [ ] HtDP
+- [ ] Как проектировать программы / How to Design Programs (Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi)
   [[ebook]](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 - [ ] Компиляторы. Принципы, технологии и инструментарий / Compilers: Principles, Techniques, & Tools
   [[paper]](https://www.ozon.ru/context/detail/id/3829076/)
