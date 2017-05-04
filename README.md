@@ -1,4 +1,6 @@
-### Programming basics
+### Programming
+
+#### Programming basics
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
   * [Russian e-book](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
   * [Russian papper book](https://www.ozon.ru/context/detail/id/5322055/)
@@ -8,17 +10,17 @@
 - [ ] [Clean Code](https://www.ozon.ru/context/detail/id/21916535/) by Robert Martin
 - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
 
-### Languages
+#### Languages
 - [ ] [The C Programming Language](https://www.ozon.ru/context/detail/id/2480925/) by Brian Kernighan and Dennis Ritchie 
 - [ ] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovaca
 - [ ] [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
 
-### Hardware and computer architecture
+#### Hardware and computer architecture
 - [ ] [Computer Organization and Design: The Hardware / Software Interface](https://www.ozon.ru/context/detail/id/22680307/) by David Patterson, John Hennessy
 - [ ] [Distributed Systems: Principles and Paradigms](https://www.ozon.ru/context/detail/id/3669235/)
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
 
-### Compilers and interpreters
+#### Compilers and interpreters
 - [ ] [Compilers: Principles, Techniques, & Tools](https://www.ozon.ru/context/detail/id/3829076/)
 - [ ] [Write You a Haskell](http://dev.stephendiehl.com/fun/) by Stephen Diehl
 - [ ] [Crafting Interpreters](http://www.craftinginterpreters.com/) by Bob Nystorm
@@ -26,17 +28,17 @@
 - [ ] [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) by Jonathan Tang
 - [ ] [Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance](http://users.cecs.anu.edu.au/~steveb/pubs/papers/immix-pldi-2008.pdf) by Stephen M. Blackburn and Kathryn S. McKinley
 
-### Networks
+#### Networks
 - [ ] [Computer Networking: A Top-Down Approach](https://www.ozon.ru/context/detail/id/135453228/) by James Kurose and Keith Ross
 - [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew Tanenbaum
 
-### Databases and data structures
+#### Databases and data structures
 - [ ] [Readings in Database Systems](https://www.ozon.ru/context/detail/id/5912157/) by Joseph Hellerstein
 - [ ] [Purely Functional Data Structures](https://www.ozon.ru/context/detail/id/135933824/) by Chris Okasaki
 - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics)
 - [ ] [Data Structures](https://www.coursera.org/learn/data-structures)
 
-### Algorithms
+#### Algorithms
 - [ ] [Algorithms and Data Structures](https://www.ozon.ru/context/detail/id/6146670/) by Niklaus Wirth
 - [ ] [Introduction to Algorithms](https://www.ozon.ru/context/detail/id/33769775/) by Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein
 - [ ] [The Algorithm Design Manual](https://www.ozon.ru/context/detail/id/1830000/) by Steven Skiena
@@ -45,18 +47,18 @@
 - [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity)
 - [ ] [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
 
-### Operating Systems
+#### Operating Systems
 - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew Tanenbaum
 - [ ] [IntermezzOS](https://intermezzos.github.io/book/)
 - [ ] [The little book about OS development](https://littleosbook.github.io/) by Erik Helin and Adam Renberg
 - [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
 
-### Information [web] security and cryptography
+#### Information [web] security and cryptography
 - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 - [ ] [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [XSS Game](https://xss-game.appspot.com/)
 
-### Other lists
+#### Other lists
 - [ ] [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ ] [Open Source Society University](https://github.com/open-source-society/computer-science)
