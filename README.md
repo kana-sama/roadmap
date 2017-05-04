@@ -107,6 +107,15 @@
 - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) (Benjamin C. Pierce)
 - [ ] [Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology](https://www.ozon.ru/context/detail/id/19134759/) by Джон Фрэнк Адамс
 
+#### Lambda calculus and functional programming
+- [ ] [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
+- [x] [Лямбда-исчисление](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9B%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-%D0%B8%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+- [ ] [Функциональное программирование 2015](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRDR44HMNqDHYgrAOPp7QLr)
+  * my notes:
+    - https://vk.com/home_kana?w=wall-135720595_256
+    - https://vk.com/home_kana?w=wall-135720595_258
+    - https://vk.com/home_kana?w=wall-135720595_260
+
 ### Other resources
 - [ ] [Better Explained](https://betterexplained.com/)
   - [ ] [An Intuitive Introduction To Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits/)
