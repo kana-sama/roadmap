@@ -26,7 +26,7 @@
 - [ ] [Crafting Interpreters](http://www.craftinginterpreters.com/) by Bob Nystorm
 - [ ] [Beautiful Racket](http://beautifulracket.com/) by Matthew Butterick
 - [ ] [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) by Jonathan Tang
- * [ ] [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
+  * [ ] [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html)
 - [ ] [Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance](http://users.cecs.anu.edu.au/~steveb/pubs/papers/immix-pldi-2008.pdf) by Stephen M. Blackburn and Kathryn S. McKinley
 
 #### Networks
