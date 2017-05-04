@@ -105,8 +105,8 @@
 - [ ] [Graph Theory](https://www.tutorialspoint.com/graph_theory/)
 
 #### Type theory
-- [ ] [Homotopy Type Theory](https://homotopytypetheory.org) (Vladimir Voevodsky)
-- [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) (Benjamin C. Pierce)
+- [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
+- [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) by Benjamin C. Pierce
 - [ ] [Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology](https://www.ozon.ru/context/detail/id/19134759/) by Джон Фрэнк Адамс
 
 #### Lambda calculus and functional programming
@@ -137,4 +137,4 @@
     - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
     - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
   * #### CS
-    - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
+    - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
