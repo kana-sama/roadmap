@@ -68,8 +68,6 @@
 - [ ] [What happens when...](https://github.com/alex/what-happens-when)
 
 ### Mathematics
-
-#### Further Mathematics
 - [ ] [Краткий курс высшей математики](https://www.ozon.ru/context/detail/id/87959/) by Исидор Натансон
 
 #### Algebra
