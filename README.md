@@ -1,37 +1,37 @@
-# roadmap
+### Programming basics
+- [ ] [Structure and Interpretation of Computer Programs (Харольд Абельсон, Джеральд Джей Сассман)](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+  * [Russian e-book](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
+  * [Russian papper book](https://www.ozon.ru/context/detail/id/5322055/)
+  * [My solutions](https://github.com/kana-sama/sicp)
+- [ ] [How to Design Programs (Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi)](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
+- [ ] [Программирование. Теоремы и задачи (Александр Шень)](https://www.ozon.ru/context/detail/id/140340900/)
+- [ ] [Clean Code (Роберт К. Мартин)](https://www.ozon.ru/context/detail/id/21916535/)
 
-- [ ] Структура и Интерпретация Компьютерных Программ / Structure and Interpretation of Computer Programs (Харольд Абельсон, Джеральд Джей Сассман)
-  [[ebook]](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-  [[my solutions]](https://github.com/kana-sama/sicp)
-  [[paper]](https://www.ozon.ru/context/detail/id/5322055/)
-- [ ] Как проектировать программы / How to Design Programs (Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi)
-  [[ebook]](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
-- [ ] Компиляторы. Принципы, технологии и инструментарий / Compilers: Principles, Techniques, & Tools
-  [[paper]](https://www.ozon.ru/context/detail/id/3829076/)
-- [ ] Программирование. Теоремы и задачи (Александр Шень)
-  [[paper]](https://www.ozon.ru/context/detail/id/140340900/)
-- [ ] Алгоритмы и структуры данных (Никлаус Вирт)
-  [[paper]](https://www.ozon.ru/context/detail/id/6146670/)
-- [ ] Язык программирования C / The C Programming Language (Брайан У. Керниган, Деннис М. Ритчи)
-  [[paper]](https://www.ozon.ru/context/detail/id/2480925/)
-- [ ] Алгоритмы. Построение и анализ / Introduction to Algorithms (Томас Х. Кормен, Чарльз И. Лейзерсон, Рональд Л. Ривест, Клиффорд Штайн, Игорь Красиков)
-  [[paper]](https://www.ozon.ru/context/detail/id/33769775/)
-- [ ] Computer Organization and Design: The Hardware / Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design) (David A. Patterson, John L. Hennessy)
-  [[paper]](https://www.ozon.ru/context/detail/id/22680307/)
-- [ ] The Algorithm Design Manual (Стивен С. Скиена)
-  [[paper]](https://www.ozon.ru/context/detail/id/1830000/)
-- [ ] Компьютерные сети. Нисходящий подход / Computer Networking: A Top-Down Approach (Джеймс Ф. Куроуз, Кит В. Росс)
-  [[paper]](https://www.ozon.ru/context/detail/id/135453228/)
-- [ ] Readings in Database Systems (Joseph M Hellerstein)
-  [[paper]](https://www.ozon.ru/context/detail/id/5912157/)
-- [ ] Distributed Systems: Principles and Paradigms
-  [[paper]](https://www.ozon.ru/context/detail/id/3669235/)
-- [ ] Анализ алгоритмов. Активный обучающий подход / Analysis of Algorithms: An Active Learning Approach (Джефри Макконнелл)
-  [[paper]](https://www.ozon.ru/context/detail/id/4523340/)
-- [ ] Чисто функциональные структуры данных / Purely Functional Data Structures (Крис Окасаки)
-  [[paper]](https://www.ozon.ru/context/detail/id/135933824/)
-- [ ] Чистый код: создание, анализ и рефакторинг (Роберт К. Мартин)
-  [[paper]](https://www.ozon.ru/context/detail/id/21916535/)
+### Languages
+- [ ] [The C Programming Language (Брайан У. Керниган, Деннис М. Ритчи)](https://www.ozon.ru/context/detail/id/2480925/)
+
+### Hardware and architecture
+- [ ] [Computer Organization and Design: The Hardware / Software Interface (David A. Patterson, John L. Hennessy)](https://www.ozon.ru/context/detail/id/22680307/)
+- [ ] [Distributed Systems: Principles and Paradigms](https://www.ozon.ru/context/detail/id/3669235/)
+
+### Compilers and interpreters
+- [ ] [Compilers: Principles, Techniques, & Tools](https://www.ozon.ru/context/detail/id/3829076/)
+
+### Networks
+- [ ] [Computer Networking: A Top-Down Approach (Джеймс Ф. Куроуз, Кит В. Росс)](https://www.ozon.ru/context/detail/id/135453228/)
+
+### Databases and data structures
+- [ ] [Readings in Database Systems (Joseph M Hellerstein)](https://www.ozon.ru/context/detail/id/5912157/)
+- [ ] [Purely Functional Data Structures (Крис Окасаки)](https://www.ozon.ru/context/detail/id/135933824/)
+
+### Algorithms
+- [ ] [Algorithms and Data Structures (Niklaus Wirth)](https://www.ozon.ru/context/detail/id/6146670/)
+- [ ] [Introduction to Algorithms (Томас Х. Кормен, Чарльз И. Лейзерсон, Рональд Л. Ривест, Клиффорд Штайн, Игорь Красиков)](https://www.ozon.ru/context/detail/id/33769775/)
+- [ ] [The Algorithm Design Manual (Стивен С. Скиена)](https://www.ozon.ru/context/detail/id/1830000/)
+- [ ] [Analysis of Algorithms: An Active Learning Approach (Джефри Макконнелл)](https://www.ozon.ru/context/detail/id/4523340/)
+
+
+
 - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
 - [ ] [Graph Theory](https://www.tutorialspoint.com/graph_theory/)
 - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) (Vladimir Voevodsky)
