@@ -57,7 +57,7 @@
 #### Information [web] security and cryptography
 - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 - [ ] [Hacksplaining](https://www.hacksplaining.com/)
-- [ ] [XSS Game](https://xss-game.appspot.com/)
+- [x] [XSS Game](https://xss-game.appspot.com/)
 
 #### Other lists
 - [ ] [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
