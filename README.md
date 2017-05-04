@@ -1,62 +1,83 @@
 ### Programming basics
-- [ ] [Structure and Interpretation of Computer Programs (Харольд Абельсон, Джеральд Джей Сассман)](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+- [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
   * [Russian e-book](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
   * [Russian papper book](https://www.ozon.ru/context/detail/id/5322055/)
   * [My solutions](https://github.com/kana-sama/sicp)
-- [ ] [How to Design Programs (Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi)](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
-- [ ] [Программирование. Теоремы и задачи (Александр Шень)](https://www.ozon.ru/context/detail/id/140340900/)
-- [ ] [Clean Code (Роберт К. Мартин)](https://www.ozon.ru/context/detail/id/21916535/)
+- [ ] [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
+- [ ] [Программирование. Теоремы и задачи](https://www.ozon.ru/context/detail/id/140340900/) by Александр Шень
+- [ ] [Clean Code](https://www.ozon.ru/context/detail/id/21916535/) by Robert Martin
+- [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
 
 ### Languages
-- [ ] [The C Programming Language (Брайан У. Керниган, Деннис М. Ритчи)](https://www.ozon.ru/context/detail/id/2480925/)
+- [ ] [The C Programming Language](https://www.ozon.ru/context/detail/id/2480925/) by Brian Kernighan and Dennis Ritchie 
+- [ ] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovaca
+- [ ] [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
 
-### Hardware and architecture
-- [ ] [Computer Organization and Design: The Hardware / Software Interface (David A. Patterson, John L. Hennessy)](https://www.ozon.ru/context/detail/id/22680307/)
+### Hardware and computer architecture
+- [ ] [Computer Organization and Design: The Hardware / Software Interface](https://www.ozon.ru/context/detail/id/22680307/) by David Patterson, John Hennessy
 - [ ] [Distributed Systems: Principles and Paradigms](https://www.ozon.ru/context/detail/id/3669235/)
+- [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
 
 ### Compilers and interpreters
 - [ ] [Compilers: Principles, Techniques, & Tools](https://www.ozon.ru/context/detail/id/3829076/)
-
-### Networks
-- [ ] [Computer Networking: A Top-Down Approach (Джеймс Ф. Куроуз, Кит В. Росс)](https://www.ozon.ru/context/detail/id/135453228/)
-
-### Databases and data structures
-- [ ] [Readings in Database Systems (Joseph M Hellerstein)](https://www.ozon.ru/context/detail/id/5912157/)
-- [ ] [Purely Functional Data Structures (Крис Окасаки)](https://www.ozon.ru/context/detail/id/135933824/)
-
-### Algorithms
-- [ ] [Algorithms and Data Structures (Niklaus Wirth)](https://www.ozon.ru/context/detail/id/6146670/)
-- [ ] [Introduction to Algorithms (Томас Х. Кормен, Чарльз И. Лейзерсон, Рональд Л. Ривест, Клиффорд Штайн, Игорь Красиков)](https://www.ozon.ru/context/detail/id/33769775/)
-- [ ] [The Algorithm Design Manual (Стивен С. Скиена)](https://www.ozon.ru/context/detail/id/1830000/)
-- [ ] [Analysis of Algorithms: An Active Learning Approach (Джефри Макконнелл)](https://www.ozon.ru/context/detail/id/4523340/)
-
-
-
-- [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
-- [ ] [Graph Theory](https://www.tutorialspoint.com/graph_theory/)
-- [ ] [Homotopy Type Theory](https://homotopytypetheory.org) (Vladimir Voevodsky)
-- [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) (Benjamin C. Pierce)
-- [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics) by Algosaurus
-- [ ] [Data Structures](https://www.coursera.org/learn/data-structures) by UC San Diego and HSE
-- [ ] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) by Toptal
-- [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity) by Algosaurus
-- [ ] [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
-- [ ] [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
-- [ ] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
-- [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) by Princeton University
-- [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
-- [ ] [IntermezzOS](https://intermezzos.github.io/book/)
-- [ ] [The little book about OS development](https://littleosbook.github.io/) by Erik Helin and Adam Renberg
-- [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
 - [ ] [Write You a Haskell](http://dev.stephendiehl.com/fun/) by Stephen Diehl
 - [ ] [Crafting Interpreters](http://www.craftinginterpreters.com/) by Bob Nystorm
 - [ ] [Beautiful Racket](http://beautifulracket.com/) by Matthew Butterick
 - [ ] [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) by Jonathan Tang
 - [ ] [Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance](http://users.cecs.anu.edu.au/~steveb/pubs/papers/immix-pldi-2008.pdf) by Stephen M. Blackburn and Kathryn S. McKinley
-- [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew S. Tanenbaum
+
+### Networks
+- [ ] [Computer Networking: A Top-Down Approach](https://www.ozon.ru/context/detail/id/135453228/) by James Kurose and Keith Ross
+- [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew Tanenbaum
+
+### Databases and data structures
+- [ ] [Readings in Database Systems](https://www.ozon.ru/context/detail/id/5912157/) by Joseph Hellerstein
+- [ ] [Purely Functional Data Structures](https://www.ozon.ru/context/detail/id/135933824/) by Chris Okasaki
+- [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics)
+- [ ] [Data Structures](https://www.coursera.org/learn/data-structures)
+
+### Algorithms
+- [ ] [Algorithms and Data Structures](https://www.ozon.ru/context/detail/id/6146670/) by Niklaus Wirth
+- [ ] [Introduction to Algorithms](https://www.ozon.ru/context/detail/id/33769775/) by Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein
+- [ ] [The Algorithm Design Manual](https://www.ozon.ru/context/detail/id/1830000/) by Steven Skiena
+- [ ] [Analysis of Algorithms: An Active Learning Approach](https://www.ozon.ru/context/detail/id/4523340/) by Jeffrey McConnell
+- [ ] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity)
+- [ ] [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+
+### Operating Systems
+- [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew Tanenbaum
+- [ ] [IntermezzOS](https://intermezzos.github.io/book/)
+- [ ] [The little book about OS development](https://littleosbook.github.io/) by Erik Helin and Adam Renberg
+- [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
+
+### Information [web] security and cryptography
 - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 - [ ] [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [XSS Game](https://xss-game.appspot.com/)
+
+### Other resources
+- [ ] [Better Explained](https://betterexplained.com/)
+  - [ ] [An Intuitive Introduction To Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits/)
+  - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
+  - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms)
+- [ ] [Khan Academy](https://www.khanacademy.org/)
+  * #### [Math](https://www.khanacademy.org/math/calculus-home)
+    - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
+    - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
+    - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
+    - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
+    - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
+    - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
+    - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
+    - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+    - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+    - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
+    - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
+  * #### CS
+    - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
+
+### Other lists
 - [ ] [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ ] [Open Source Society University](https://github.com/open-source-society/computer-science)
@@ -65,70 +86,44 @@
 - [ ] [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [ ] [What happens when...](https://github.com/alex/what-happens-when)
 
-## other
-- [ ] [Better Explained](https://betterexplained.com/)
-  - [ ] [An Intuitive Introduction To Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits/)
-  - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
-  - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms)  
-- [ ] [Khan Academy](https://www.khanacademy.org/math/calculus-home)
-  - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
-  - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
-  - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
-  - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
-  - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
-  - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
-  - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
-  - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
-  - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
-  - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
-  - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
-  - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
+### Mathematics
 
-## math
+#### Further Mathematics
+- [ ] [Краткий курс высшей математики](https://www.ozon.ru/context/detail/id/87959/) by Исидор Натансон
 
-- [ ] Краткий курс Математического анализа (Лев Кудрявцев)
-  [[ebook]](http://nuclphys.sinp.msu.ru/mathan/)
-- [ ] Введение в алгебру. В 3 частях. Часть 1. Основы алгебры (Алексей Кострикин)
-  [[paper]](https://www.ozon.ru/context/detail/id/21839075/)
-- [ ] Введение в алгебру. В 3 частях. Часть 2. Линейная алгебра (Алексей Кострикин)
-  [[paper]](https://www.ozon.ru/context/detail/id/7631501/)
-- [ ] Введение в алгебру. В 3 частях. Часть 3. Основные структуры алгебры (Алексей Кострикин)
-  [[paper]](https://www.ozon.ru/context/detail/id/23944141/)
-- [ ] Сборник задач по алгебре (Алексей Кострикин)
-  [[paper]](https://www.ozon.ru/context/detail/id/34551868/)
-- [ ] Сборник задач и упражнений по математическому анализу. Учебное пособие (Демидович Борис Павлович)
-  [[paper]](https://www.ozon.ru/context/detail/id/140170199/)
-- [ ] Краткий курс высшей математики (Исидор Натансон)
-  [[paper]](https://www.ozon.ru/context/detail/id/87959/)
-- [ ] Курс высшей алгебры (Александр Курош)
-  [[paper]](https://www.ozon.ru/context/detail/id/17563348/)
-- [ ] Курс алгебры (Эрнест Винберг)
-  [[paper]](https://www.ozon.ru/context/detail/id/138235365/)
-- [ ] Математический анализ. Часть 1 (Владимир Зорич)
-  [[paper]](https://www.ozon.ru/context/detail/id/138552098/)
-- [ ] Математический анализ. Часть 2 (Владимир Зорич)
-  [[paper]](https://www.ozon.ru/context/detail/id/33488939/)
-- [ ] Комбинаторика (Наум Виленкин, Александр Виленкин)
-  [[paper]](https://www.ozon.ru/context/detail/id/33498057/)
-- [ ] Курс теории вероятностей. Учебник
-  [[paper]](https://www.ozon.ru/context/detail/id/29205435/)
-- [ ] Элементарное введение в теорию вероятностей (Борис Гнеденко, Александр Хинчин)
-  [[paper]](https://www.ozon.ru/context/detail/id/137286202/)
-- [ ] Задачи по теории вероятностей (Альберт Ширяев)
-  [[paper]](https://www.ozon.ru/context/detail/id/3248945/)
-- [ ] Сборник задач по теории вероятностей (Андрей Зубков, Борис Севастьянов, Владимир Чистяков)
-  [[paper]](https://www.ozon.ru/context/detail/id/4743257/)
-- [ ] Курс математического анализа. Учебник. В 3 томах. Том 1 (Лев Кудрявцев)
-  [[paper]](https://www.ozon.ru/context/detail/id/32151877/)
-- [ ] Курс математического анализа. В 2 книгах. Том 2. Книга 1. Учебник (Лев Кудрявцев)
-  [[paper]](https://www.ozon.ru/context/detail/id/135851706/)
-- [ ] Курс математического анализа. Том 2. В 2 книгах. Книга 2 (Лев Кудрявцев)
-  [[paper]](https://www.ozon.ru/context/detail/id/135851707/)
-- [ ] Курс математического анализа. В 3 томах. Том 3. Учебник (Лев Кудрявцев)
-  [[paper]](https://www.ozon.ru/context/detail/id/139038567/)
-- [ ] Дискретная математика для программистов / Discrete Mathematics for Compuing (Род Хаггарти)
-  [[paper]](https://www.ozon.ru/context/detail/id/7825217/)
-- [ ] Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology (Джон Фрэнк Адамс)
-  [[paper]](https://www.ozon.ru/context/detail/id/19134759/)
-- [ ] Algebra: Chapter 0 (Paolo Aluffi)
-  [[paper]](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813)
+#### Algebra
+- [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
+- [ ] [Введение в алгебру. В 3 частях. Часть 1. Основы алгебры](https://www.ozon.ru/context/detail/id/21839075/) by Алексей Кострикин
+- [ ] [Введение в алгебру. В 3 частях. Часть 2. Линейная алгебра](https://www.ozon.ru/context/detail/id/7631501/) by Алексей Кострикин
+- [ ] [Введение в алгебру. В 3 частях. Часть 3. Основные структуры алгебры](https://www.ozon.ru/context/detail/id/23944141/) by Алексей Кострикин
+- [ ] [Сборник задач по алгебре](https://www.ozon.ru/context/detail/id/34551868/) by Алексей Кострикин
+- [ ] [Курс высшей алгебры](https://www.ozon.ru/context/detail/id/17563348/) by Александр Курош
+- [ ] [Курс алгебры](https://www.ozon.ru/context/detail/id/138235365/) by Эрнест Винберг
+
+#### Mathematical analysis
+- [ ] [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Лев Кудрявцев
+- [ ] [Курс математического анализа. Учебник. В 3 томах. Том 1](https://www.ozon.ru/context/detail/id/32151877/) by Лев Кудрявцев
+- [ ] [Курс математического анализа. В 2 книгах. Том 2. Книга 1. Учебник](https://www.ozon.ru/context/detail/id/135851706/) by Лев Кудрявцев
+- [ ] [Курс математического анализа. Том 2. В 2 книгах. Книга 2](https://www.ozon.ru/context/detail/id/135851707/) by Лев Кудрявцев
+- [ ] [Курс математического анализа. В 3 томах. Том 3. Учебник](https://www.ozon.ru/context/detail/id/139038567/) by Лев Кудрявцев
+- [ ] [Математический анализ. Часть 1](https://www.ozon.ru/context/detail/id/138552098/) by Владимир Зорич
+- [ ] [Математический анализ. Часть 2](https://www.ozon.ru/context/detail/id/33488939/) by Владимир Зорич
+- [ ] [Сборник задач и упражнений по математическому анализу. Учебное пособие](https://www.ozon.ru/context/detail/id/140170199/) by Демидович Борис Павлович
+
+#### Combinatorics 
+- [ ] [Комбинаторика](https://www.ozon.ru/context/detail/id/33498057/) by Наум Виленкин, Александр Виленкин
+
+#### Probability theory
+- [ ] [Задачи по теории вероятностей](https://www.ozon.ru/context/detail/id/3248945/) by Альберт Ширяев
+- [ ] [Курс теории вероятностей. Учебник](https://www.ozon.ru/context/detail/id/29205435/)
+- [ ] [Элементарное введение в теорию вероятностей](https://www.ozon.ru/context/detail/id/137286202/) by Борис Гнеденко, Александр Хинчин
+- [ ] [Сборник задач по теории вероятностей](https://www.ozon.ru/context/detail/id/4743257/) by Андрей Зубков, Борис Севастьянов, Владимир Чистяков
+
+#### Discrete mathematics
+- [ ] [Дискретная математика для программистов / Discrete Mathematics for Compuing](https://www.ozon.ru/context/detail/id/7825217/) by Род Хаггарти
+- [ ] [Graph Theory](https://www.tutorialspoint.com/graph_theory/)
+
+#### Types theory
+- [ ] [Homotopy Type Theory](https://homotopytypetheory.org) (Vladimir Voevodsky)
+- [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) (Benjamin C. Pierce)
+- [ ] [Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology](https://www.ozon.ru/context/detail/id/19134759/) by Джон Фрэнк Адамс
