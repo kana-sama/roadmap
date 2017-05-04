@@ -104,7 +104,7 @@
 - [ ] [Дискретная математика для программистов / Discrete Mathematics for Compuing](https://www.ozon.ru/context/detail/id/7825217/) by Род Хаггарти
 - [ ] [Graph Theory](https://www.tutorialspoint.com/graph_theory/)
 
-#### Types theory
+#### Type theory
 - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) (Vladimir Voevodsky)
 - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) (Benjamin C. Pierce)
 - [ ] [Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology](https://www.ozon.ru/context/detail/id/19134759/) by Джон Фрэнк Адамс
