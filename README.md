@@ -56,27 +56,6 @@
 - [ ] [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [XSS Game](https://xss-game.appspot.com/)
 
-### Other resources
-- [ ] [Better Explained](https://betterexplained.com/)
-  - [ ] [An Intuitive Introduction To Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits/)
-  - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
-  - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms)
-- [ ] [Khan Academy](https://www.khanacademy.org/)
-  * #### [Math](https://www.khanacademy.org/math/calculus-home)
-    - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
-    - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
-    - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
-    - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
-    - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
-    - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
-    - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
-    - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
-    - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
-    - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
-    - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
-  * #### CS
-    - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
-
 ### Other lists
 - [ ] [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -127,3 +106,24 @@
 - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) (Vladimir Voevodsky)
 - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) (Benjamin C. Pierce)
 - [ ] [Стабильные гомотопии и обобщенные гомологии / Stable Homotopy and Generalised Homology](https://www.ozon.ru/context/detail/id/19134759/) by Джон Фрэнк Адамс
+
+### Other resources
+- [ ] [Better Explained](https://betterexplained.com/)
+  - [ ] [An Intuitive Introduction To Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits/)
+  - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
+  - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms)
+- [ ] [Khan Academy](https://www.khanacademy.org/)
+  * #### [Math](https://www.khanacademy.org/math/calculus-home)
+    - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
+    - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
+    - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
+    - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
+    - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
+    - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
+    - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
+    - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+    - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+    - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
+    - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
+  * #### CS
+    - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
