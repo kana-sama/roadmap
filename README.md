@@ -3,7 +3,7 @@
 #### Programming basics
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
   * [Russian e-book](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-  * [Russian papper book](https://www.ozon.ru/context/detail/id/5322055/)
+  * [Russian paper book](https://www.ozon.ru/context/detail/id/5322055/)
   * [My solutions](https://github.com/kana-sama/sicp)
 - [ ] [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 - [ ] [Программирование. Теоремы и задачи](https://www.ozon.ru/context/detail/id/140340900/) by Александр Шень
