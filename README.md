@@ -70,6 +70,7 @@
 - [ ] [What happens when...](https://github.com/alex/what-happens-when)
 
 ### Mathematics
+- [ ] [Элементарная математика](http://www.ozon.ru/context/detail/id/8669872/) by Марк Сканави
 - [ ] [Краткий курс высшей математики](https://www.ozon.ru/context/detail/id/87959/) by Исидор Натансон
 
 #### Algebra
