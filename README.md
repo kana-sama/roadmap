@@ -1,7 +1,10 @@
+### Legend:
+- :star: - must read
+
 ### Programming
 
 #### Programming basics
-- [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
+- [ ] :star: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
   * [ ] [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-ref/index.html#Top)
   * [Russian e-book](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
   * [Russian paper book](https://www.ozon.ru/context/detail/id/5322055/)
