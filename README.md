@@ -119,6 +119,12 @@
 - [ ] [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
 - [x] [Лямбда-исчисление](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9B%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-%D0%B8%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 - [x] [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+  * [x] [Part 1](https://medium.com/p/1f15e387e536)
+  * [x] [Part 2](https://medium.com/p/7005682cec4a)
+  * [x] [Part 3](https://medium.com/p/1b0fd14eb1a7)
+  * [x] [Part 4](https://medium.com/p/18fbe3ea9e49)
+  * [x] [Part 5](https://medium.com/p/c70adc9cf56a)
+  * [x] [Part 6](https://medium.com/p/db502830403)
 - [ ] [Функциональное программирование 2015](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRDR44HMNqDHYgrAOPp7QLr)
   * [materials (slides, practice)](http://mit.spbau.ru/sewiki/index.php/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_2015)
   * my notes:
