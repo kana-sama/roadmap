@@ -43,6 +43,9 @@
 - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics)
 - [ ] [Data Structures](https://www.coursera.org/learn/data-structures)
 
+#### Data Analysis
+- [ ] [Python for Data Analysis](https://www.ozon.ru/context/detail/id/32719186/) by Wes McKinney
+
 #### Algorithms
 - [ ] [Algorithms and Data Structures](https://www.ozon.ru/context/detail/id/6146670/) by Niklaus Wirth
 - [ ] [Introduction to Algorithms](https://www.ozon.ru/context/detail/id/33769775/) by Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein
