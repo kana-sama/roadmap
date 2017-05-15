@@ -99,6 +99,10 @@
 - [ ] [Математический анализ. Часть 1](https://www.ozon.ru/context/detail/id/138552098/) by Владимир Зорич
 - [ ] [Математический анализ. Часть 2](https://www.ozon.ru/context/detail/id/33488939/) by Владимир Зорич
 - [ ] [Сборник задач и упражнений по математическому анализу. Учебное пособие](https://www.ozon.ru/context/detail/id/140170199/) by Демидович Борис Павлович
+- [ ] Курс дифференциального и интегрального исчисления в 3 томах by Grigorii Fichtenholz
+  * [ ] [Том 1](http://www.ozon.ru/context/detail/id/4577306/)
+  * [ ] [Том 2](http://www.ozon.ru/context/detail/id/4577307/)
+  * [ ] [Том 3](http://www.ozon.ru/context/detail/id/4577308/)
 
 #### Combinatorics 
 - [ ] [Комбинаторика](https://www.ozon.ru/context/detail/id/33498057/) by Наум Виленкин, Александр Виленкин
