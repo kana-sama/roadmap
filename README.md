@@ -67,6 +67,7 @@
 - [x] [XSS Game](https://xss-game.appspot.com/)
 
 #### Other lists
+- [ ] [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 - [ ] [Awesome Compilers](http://aalhour.com/awesome-compilers/)
 - [ ] [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
