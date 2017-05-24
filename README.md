@@ -67,6 +67,7 @@
 - [x] [XSS Game](https://xss-game.appspot.com/)
 
 #### Other lists
+- [ ] [Awesome Compilers](http://aalhour.com/awesome-compilers/)
 - [ ] [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ ] [Open Source Society University](https://github.com/open-source-society/computer-science)
