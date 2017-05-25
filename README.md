@@ -35,7 +35,8 @@
 
 #### Networks
 - [ ] [Computer Networking: A Top-Down Approach](https://www.ozon.ru/context/detail/id/135453228/) by James Kurose and Keith Ross
-- [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew Tanenbaum
+- [ ] [Computer Networks: Principles, Technologies and Protocols for Network Design](https://www.ozon.ru/context/detail/id/34377072/) by Natalia and Victor Olifer
+- [ ] ~~[Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew Tanenbaum~~
 
 #### Databases and data structures
 - [ ] [Readings in Database Systems](https://www.ozon.ru/context/detail/id/5912157/) by Joseph Hellerstein
