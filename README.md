@@ -143,6 +143,7 @@
     - https://vk.com/home_kana?w=wall-135720595_260
 
 ### Other resources
+- [ ] [Some researches about languages](https://github.com/carp-lang/Carp/blob/master/docs/Research.md)
 - [ ] [Better Explained](https://betterexplained.com/)
   - [ ] [An Intuitive Introduction To Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits/)
   - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
