@@ -13,6 +13,7 @@
 - [ ] [Программирование. Теоремы и задачи](https://www.ozon.ru/context/detail/id/140340900/) by Александр Шень
 - [ ] [Clean Code](https://www.ozon.ru/context/detail/id/21916535/) by Robert Martin
 - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
+- [ ] [Concrete Mathematics: A Foundation for Computer Science](https://www.ozon.ru/context/detail/id/140985741/) by Ronald Graham, Donald Knuth, and Oren Patashnik
 
 #### Languages
 - [ ] [The C Programming Language](https://www.ozon.ru/context/detail/id/2480925/) by Brian Kernighan and Dennis Ritchie 
